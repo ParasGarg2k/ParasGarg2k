@@ -1,6 +1,6 @@
 
 [![@parasgarg2k's Holopin board](https://holopin.me/parasgarg2k)](https://holopin.io/@parasgarg2k)
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://paras-garg-2k.io)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ParasGarg2k.ParasGarg2k.md" />
 
 <h1 align="center">
@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/paras-garg-2k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://parasgarg2k.github.io" target="_blank">
+  <a href="https://paras-garg-2k.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
