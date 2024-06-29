@@ -54,7 +54,15 @@
 </div>
 
 <hr/>
-
+<div align=center>
+  <h2>🐍 My Trophies 🐍</h2>
+  <br>
+  
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParasGarg2k&column=9" />
+  </p>
+  </div>
+</p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
